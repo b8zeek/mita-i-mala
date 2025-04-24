@@ -9,6 +9,6 @@ body {
     width: 100%;
 }
 
-.red {
-    color: red;
+.text {
+    text-align: justify;
 }
