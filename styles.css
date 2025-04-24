@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 10%;
+}
+
+.romantic-photo {
+    width: 100%;
+}
+
+.red {
+    color: red;
+}
